@@ -1,0 +1,46 @@
+[
+  {
+    "id": "shan-tuyet",
+    "type": "mon-moi",
+    "title": "Ra mắt menu mới Trà Shan Tuyết",
+    "date": "2026-11-25",
+    "branch": "Cả 3 chi nhánh",
+    "image": "images/shan-tuyet.jpg",
+    "summary": "Bốn món trà Shan Tuyết thanh mát vị thiên nhiên, cùng giá 55K.",
+    "content": [
+      "Cafe A+ ra mắt dòng Trà Shan Tuyết với bốn món mới: Hồng Sấu Mơ Hoa, Shan Tuyết Mật Gừng, Shan Tuyết Khoai Môn và Dứa Mật Mơ Vàng.",
+      "Tất cả có giá 55K, phục vụ tại cả 3 chi nhánh. Ghé thử ngay hôm nay!"
+    ],
+    "sample": false
+  },
+  {
+    "id": "sinh-vien-giam-10",
+    "type": "khuyen-mai",
+    "title": "Giảm 10% cho học sinh, sinh viên",
+    "date": "2026-11-20",
+    "until": "2026-12-31",
+    "branch": "Cả 3 chi nhánh",
+    "image": "images/quay.jpg",
+    "summary": "Xuất trình thẻ học sinh, sinh viên để được giảm 10% tổng hóa đơn.",
+    "content": [
+      "Từ nay đến hết 31/12/2026, học sinh, sinh viên xuất trình thẻ khi thanh toán được giảm 10% tổng hóa đơn.",
+      "Áp dụng cho đồ uống tại quán và mang đi, không áp dụng cùng chương trình khác."
+    ],
+    "sample": true
+  },
+  {
+    "id": "acoustic-05-12",
+    "type": "su-kien",
+    "title": "Đêm nhạc acoustic tối thứ Bảy 5/12",
+    "date": "2026-11-24",
+    "until": "2026-12-05",
+    "branch": "137 Hoàng Hoa Thám",
+    "image": "images/san.jpg",
+    "summary": "Nghe nhạc mộc dưới ánh đèn vàng ở sân vườn, từ 19h30 đến 21h30.",
+    "content": [
+      "Tối thứ Bảy 5/12/2026, từ 19h30 đến 21h30, sân vườn Cafe A+ có đêm nhạc acoustic với các bản tình ca quen thuộc.",
+      "Vào cửa tự do, chỉ cần gọi đồ uống. Nên đến sớm để có chỗ đẹp, hoặc gọi 0932 034 539 để giữ bàn."
+    ],
+    "sample": true
+  }
+]

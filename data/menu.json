@@ -1,0 +1,12 @@
+[
+  {"cat":"Trà Shan Tuyết","en":"Món mới","isNew":true,"items":[["Hồng Sấu Mơ Hoa",55,0,"#c8283c"],["Shan Tuyết Mật Gừng",55,0,"#c9a074"],["Shan Tuyết Khoai Môn",55,0,"#a98bd1"],["Dứa Mật Mơ Vàng",55,0,"#f2b51c"]]},
+  {"cat":"Café","en":"Espresso","items":[["Đen nóng/đá",25],["Sữa nóng/đá",28],["Muối",39],["Lá dứa",44],["Sữa chuối",44,1],["Bạc xỉu",30]]},
+  {"cat":"Trà sữa & Matcha","en":"Milktea","items":[["Trà sữa Tiramisu",47,1],["Trà sữa lá dứa",47,1],["Choco sữa",47],["Matcha sữa",49],["Matcha đá xay + foam",49,1]]},
+  {"cat":"Trà trái cây","en":"Fruits tea","items":[["Đào",41],["Vải",44],["Ổi hồng",44],["Dưa lưới đào",44],["Xoài thanh long đỏ",44,1],["Việt quất dâu rừng",44],["Xoài nhiệt đới",44],["Táo Bana",44,1],["Trà gừng mật ong",34]]},
+  {"cat":"Nước ép","en":"Juices","items":[["Cam vắt",34],["Thơm",34],["Dưa hấu",32],["Ổi",32]]},
+  {"cat":"Sinh tố · Đá xay","en":"Smoothies","items":[["Bơ",49,1],["Dừa",47,1],["Xoài",35],["Chocomint",44]]},
+  {"cat":"Yaourt","en":"Yogurt","items":[["Sữa chua phômai dâu lắc",44,1],["Yaourt đá",29],["Yaourt trái cây",40]]},
+  {"cat":"Các loại khác","en":"Other","items":[["Cacao nóng/đá",31],["Đá chanh",30],["Dừa tươi",35],["Coca · Sting · C2",28],["Redbull",30],["Nước suối",22]]},
+  {"cat":"Đồ ăn vặt","en":"Snacks","items":[["Bánh tráng Kađô",15],["Bánh tráng sốt tôm",15],["Bánh mì chà bông",30]]},
+  {"cat":"Topping","en":"Topping","items":[["Trân châu trắng",7],["Thạch cà phê",7],["Kem béo",9]]}
+]
