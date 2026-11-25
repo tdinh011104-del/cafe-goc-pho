@@ -133,6 +133,23 @@ body {
   font-weight: 600;
 }
 
+/* Thực đơn — tông hồng */
+#thuc-don {
+  background: #fde4ec;
+}
+
+#thuc-don h2 {
+  color: #c2185b;
+}
+
+#thuc-don .menu li {
+  border: 1px solid #f8bbd0;
+}
+
+#thuc-don .menu .price {
+  color: #d81b60;
+}
+
 /* Footer */
 .footer {
   background: var(--brown-dark);
